@@ -1,6 +1,6 @@
 id: br.gov.fazenda.receita.gcap2025
 runtime: org.freedesktop.Platform
-runtime-version: "25.08"
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.openjdk11
@@ -62,9 +62,9 @@ modules:
         path: icon-128.png
       - type: extra-data
         filename: gcap.zip
-        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/gcap/GCAP2025v1.3.zip
-        sha256: f0f2827acdea45ee87bb3e074dde80323d0e6ef21bf3eb0d9a2924c490a29154
-        size: 24892057
+        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/gcap/GCAP2025v1.4.zip
+        sha256: 7cfa382fd053a369f50b576ad1e3a2a955d6f30d89bab6e9e9349ddc6ef159ae
+        size: 24892397
         x-checker-data:
           type: html
           url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/gcap/update/latest.xml
