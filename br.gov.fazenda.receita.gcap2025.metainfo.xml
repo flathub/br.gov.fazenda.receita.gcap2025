@@ -4,7 +4,7 @@
   <name>GCAP 2025</name>
   <launchable type="desktop-id">br.gov.fazenda.receita.gcap2025.desktop</launchable>
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>LicenseRef-proprietary</project_license>
+  <project_license>LicenseRef-proprietary=https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/lgpd/termo-de-uso</project_license>
   <developer id="br.gov">
     <name>Special Department of Federal Revenue of Brazil</name>
     <name xml:lang="pt_BR">Receita Federal do Brasil</name>
@@ -15,7 +15,7 @@
     <p>GCAP is an app officially distributed by the Special Department of Federal Revenue of Brazil, to help Brazilian citizens do their capital gains taxes.</p>
     <p xml:lang="pt_BR">Preencha neste programa as informações sobre a apuração de seus ganhos de capital, calcule o imposto de renda devido e gere o DARF para pagar. As informações registradas no programa poderão ser importadas para a declaração de imposto de renda do ano subsequente.</p>
   </description>
-  <url type="homepage">https://www.gov.br/pt-br/servicos/apurar-imposto-sobre-ganhos-de-capital</url>
+  <url type="homepage">https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/gcap</url>
   <content_rating type="oars-1.1"/>
   <screenshots>
     <screenshot type="default">
